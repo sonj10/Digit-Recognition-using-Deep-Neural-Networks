@@ -4,3 +4,7 @@ classification model, which will accept input in the form of real
 time hand gestures. The proposed model will
 classify digits using deep neural networks and return the
 output to the user on a real-time basis.
+
+<p align="center">
+  <img src="Images/Demo.gif" alt="animated" />
+</p>
